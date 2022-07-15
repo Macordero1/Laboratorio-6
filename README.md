@@ -126,6 +126,76 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 
 *Toma de potencia RL=4.7KΩ*
 
+## **6.5.3 Parte practica**
+
+![image](https://user-images.githubusercontent.com/105742149/179141575-b23665a8-42ff-4283-8d37-748660f8c995.png)
+
+*Toma de amperaje RL=220 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179141688-96c6c8c7-0dc7-4cb7-9415-be0d30abd675.png)
+
+*Toma de voltaje RL=220 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179141902-ce603800-e34c-4b78-8e76-9182475c0c41.png)
+
+*Toma de amperaje RL=470 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179142045-e1b538ba-b735-4b43-a150-a37b41348627.png)
+
+*Toma de voltaje RL=470 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179142088-d2267db4-cce8-4239-93b8-e6746fad21b6.png)
+
+*Toma de amperaje RL=680 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179142925-4ff287f6-6ad1-4d33-a791-cac617326660.png)
+
+*Toma de voltaje RL=680 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179143002-ef2c3ccf-40bd-4691-a4a6-c0e4125a55b8.png)
+
+*Toma de amperaje RL=1KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143095-4bc87fda-7176-456f-956f-26876d23b31c.png)
+
+*Toma de voltaje RL=1KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143318-58b0e82d-b9f5-4972-8cf0-8494405c1be8.png)
+
+*Toma de amperaje RL=1.5KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143167-691783d3-94e0-417a-ac28-a675eae4850b.png)
+
+*Toma de voltaje RL=1.5KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143379-c71b5fce-9b82-43c8-bae8-a04aa0341d4a.png)
+
+*Toma de amperaje RL=1.8KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143430-bcebd454-5dac-4a2d-8f30-64ad23125421.png)
+
+*Toma de voltaje RL=1.8KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143652-c30534cf-3043-45c6-ab13-0a0d169b5def.png)
+
+*Toma de amperaje RL=2.2KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143519-3b061ce2-0b95-43a2-a128-fcd47dbc982e.png)
+
+*Toma de voltaje RL=2.2KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143704-553e3d6c-34b5-4d2c-aee3-ac3dabec65ea.png)
+
+*Toma de amperaje RL=3.9KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143875-e93db2e0-7021-48f7-a2da-bfacfe8c2f03.png)
+
+*Toma de voltaje RL=3.9KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179143946-fc2dfbdb-d454-41b4-8bd5-cc9f6318f4a4.png)
+
+*Toma de voltaje RL=4.7KΩ*
+
 ## **6.6. Preguntas**
 
 **6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
