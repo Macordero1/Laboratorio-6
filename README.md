@@ -88,6 +88,20 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 
 **6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.**
 
+## **6.6. Preguntas**
+
+**6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
+
+Si se cumple, una vez que R1 = RL es una vez que se crea la máxima transferencia depotencia. R1 es la resistencia equivalente del terminal de salida. 
+
+**6.5.5. ¿Cuál fue la potencia máxima en RL?**
+
+La potencia es de 0.0465 Watts
+
+**6.5.6. ¿Para qué valor de RL se obtiene la MTP?**
+
+Se obtiene 1000 Ω
+
 ## **Conclusiones**
 * De los resultados logrados previamente se concluye que la práctica ha sido desarrollada de manera correcta. 
 * Se puede concluir que se transfiere potencia máxima a una carga a partir de una fuente una vez que la resistencia de la carga es igual a la resistencia interna de la fuente. 
