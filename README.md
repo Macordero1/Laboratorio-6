@@ -214,6 +214,52 @@ Se obtiene 1000 Ω
 
 *Tabla 1. Parámetros Eléctricos del circuito de la figura 1.*
 
+## **Calculos**
+
+Aplicando ley de Ohm y formula de la potencia:
+
+![image](https://user-images.githubusercontent.com/105742149/179146517-774e6105-d7f3-4239-98f6-0b24520249b5.png)
+
+RL = 220Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146543-476fd89b-bae7-4bd1-85eb-f989c0c99218.png)
+
+RL = 470Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146573-d5e4e7c7-88e6-4a3e-9b5b-d12fc36f2cde.png)
+
+RL = 680Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146617-b8feadf0-386f-40a6-acf4-a38834570b9e.png)
+
+RL = 820Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146642-73a6380d-0176-45c8-b197-3babd034e24f.png)
+
+RL = 1000Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146805-b07a18d4-1482-4974-9f73-78308c390c6a.png)
+
+RL = 1500Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146834-7541cdf8-6c2c-4fca-b767-90c7a44744aa.png)
+
+RL = 1800Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146872-22037315-d261-4a31-91ba-aa3b023a80cb.png)
+
+RL = 2200Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146894-d9fd64db-3113-4b6a-a28c-cb3cc39de24b.png)
+
+RL = 3900Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146925-bd5b3b9c-ec84-4c4d-aa55-b8e896effe89.png)
+
+RL = 4700Ω
+
+![image](https://user-images.githubusercontent.com/105742149/179146952-d71ee6c1-0265-4a82-9bba-8a605486332a.png)
+
 ## **Conclusiones**
 * De los resultados logrados previamente se concluye que la práctica ha sido desarrollada de manera correcta. 
 * Se puede concluir que se transfiere potencia máxima a una carga a partir de una fuente una vez que la resistencia de la carga es igual a la resistencia interna de la fuente. 
