@@ -84,9 +84,47 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 
 *Toma de medidas RL=4.7 KΩ*
 
-**6.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.**
+**6.5.3. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.**
 
-**6.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.**
+![image](https://user-images.githubusercontent.com/105742149/179136089-b8154f03-37b6-49bc-a462-7db60061876f.png)
+
+*Toma de potencia RL=220 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179136190-d1cdf230-ad39-4278-a5dc-00096f505111.png)
+
+*Toma de potencia RL=470 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179136236-9a075a3d-4bc9-41ea-8e9e-1e8a17b32740.png)
+
+*Toma de potencia RL=680 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179136277-e3c4ee4d-7f6a-485f-a64a-ba5c55b5e3a7.png)
+
+*Toma de potencia RL=820 Ω*
+
+![image](https://user-images.githubusercontent.com/105742149/179136323-eaea15e5-a242-4dec-82bc-135dbc48366a.png)
+
+*Toma de potencia RL=1KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179136384-6e424caa-d315-47ad-9062-386bdacc286e.png)
+
+*Toma de potencia RL=1.5KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179136428-dac38c06-871f-410f-8f92-7c43aa4e9ef1.png)
+
+*Toma de potencia RL=1.8KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179136484-40787acf-cf0c-4a0b-87f9-21e4e5d2295e.png)
+
+*Toma de potencia RL=2.2KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179136510-9f198f06-92d1-4d57-be7c-5e151f050ac7.png)
+
+*Toma de potencia RL=3.9KΩ*
+
+![image](https://user-images.githubusercontent.com/105742149/179136589-c73a12c2-62c7-4f52-9437-ec5ef923850f.png)
+
+*Toma de potencia RL=4.7KΩ*
 
 ## **6.6. Preguntas**
 
