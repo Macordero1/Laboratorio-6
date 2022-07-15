@@ -38,45 +38,49 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 
 ![image](https://user-images.githubusercontent.com/105742149/179116080-1637f119-3c6e-4b87-b1b8-3adf940976bb.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179126315-e150ae54-4f38-4946-a285-3e1e83f3b4d6.png)
+
+*Circuito Armado*
+
 **6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.**
 
-![image](https://user-images.githubusercontent.com/105742149/179125831-2f9920f4-4bcb-4499-a8bf-b1e107366228.png)
+![image](https://user-images.githubusercontent.com/105742149/179126644-48fde8f2-102e-4364-b2f4-7aca3c03b3e2.png)
 
 *Toma de medidas RL=220 Ω*
 
-![image](https://user-images.githubusercontent.com/105742149/179125902-79774b5b-45f8-4c1c-a3bd-e4a25e417298.png)
+![image](https://user-images.githubusercontent.com/105742149/179126708-75708e0b-79b0-4212-a3ff-28f72603ab56.png)
 
 *Toma de medidas RL=470 Ω*
 
-![image](https://user-images.githubusercontent.com/105742149/179125928-ab9604e6-479e-44de-9170-bece9c45f874.png)
+![image](https://user-images.githubusercontent.com/105742149/179126757-b17c4f4a-fc8f-4ce1-bde6-7d01ba09773c.png)
 
 *Toma de medidas RL=680 Ω*
 
-![image](https://user-images.githubusercontent.com/105742149/179125976-8e92aee5-0a52-4584-a801-740eed774092.png)
+![image](https://user-images.githubusercontent.com/105742149/179126792-21ca4dea-d6d2-4a23-9cf4-edbd97861524.png)
 
 *Toma de medidas RL=820 Ω*
 
-![image](https://user-images.githubusercontent.com/105742149/179126001-aeecdf75-7ffd-4a1d-bc8f-1e77e26dbad7.png)
+![image](https://user-images.githubusercontent.com/105742149/179126832-8c9a4c33-1349-4c7d-a782-9741df012e6e.png)
 
 *Toma de medidas RL=1 KΩ*
 
-![image](https://user-images.githubusercontent.com/105742149/179126031-607cdae6-1810-4046-90a0-af7a5f3fe3f5.png)
+![image](https://user-images.githubusercontent.com/105742149/179126864-399b2c47-7371-439d-b050-02da6f0a407e.png)
 
 *Toma de medidas RL=1.5 KΩ*
 
-![image](https://user-images.githubusercontent.com/105742149/179126063-c811517f-806a-4668-ac22-fddecf29fe2b.png)
+![image](https://user-images.githubusercontent.com/105742149/179126916-5a4c8aea-3547-4c0f-8b60-f7f1b930d7c5.png)
 
 *Toma de medidas RL=1.8 KΩ*
 
-![image](https://user-images.githubusercontent.com/105742149/179126083-3cc0d549-d740-409b-b9b1-dedf08291565.png)
+![image](https://user-images.githubusercontent.com/105742149/179126941-0bf15ccb-3384-407d-9824-3f634b474b2d.png)
 
 *Toma de medidas RL=2.2 KΩ*
 
-![image](https://user-images.githubusercontent.com/105742149/179126105-e4e4ee67-b914-4f9c-b09d-e1819eaa1254.png)
+![image](https://user-images.githubusercontent.com/105742149/179126978-afcb2966-fae4-4824-82ad-b4a5d35a3895.png)
 
 *Toma de medidas RL=3.9 KΩ*
 
-![image](https://user-images.githubusercontent.com/105742149/179126143-2b3665ff-772e-4156-8037-efc873e77ca6.png)
+![image](https://user-images.githubusercontent.com/105742149/179127023-85cfe7fa-ba82-465e-8dcc-6f955e61fe88.png)
 
 *Toma de medidas RL=4.7 KΩ*
 
