@@ -268,3 +268,5 @@ RL = 4700Ω
 * Para la condición de transferencia de máxima potencia, el voltaje en la carga se disminuirá a medio voltaje de terminales mayor disponible. 
 
 ## **Bibliografia**
+
+Floyd, T. (2007). Principios de circuitos eléctricos (8va ed), México DF, México: Pearson Educación.
