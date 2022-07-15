@@ -26,6 +26,8 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 
 ## **6.3. Información General**
 
+![image](https://user-images.githubusercontent.com/105742149/179149163-7b5397a9-c645-4834-9bc4-4ad132797201.png)
+
 ## **6.4. Material y Equipo requerido**
 
 ![image](https://user-images.githubusercontent.com/105742149/179113806-46785043-5a64-46c3-8681-e25e2edce7d1.png)
