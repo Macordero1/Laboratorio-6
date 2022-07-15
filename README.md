@@ -210,6 +210,10 @@ La potencia es de 0.0465 Watts
 
 Se obtiene 1000 Ω
 
+![image](https://user-images.githubusercontent.com/105742149/179146205-5bac9b55-f148-4f41-8254-a340608b1360.png)
+
+*Tabla 1. Parámetros Eléctricos del circuito de la figura 1.*
+
 ## **Conclusiones**
 * De los resultados logrados previamente se concluye que la práctica ha sido desarrollada de manera correcta. 
 * Se puede concluir que se transfiere potencia máxima a una carga a partir de una fuente una vez que la resistencia de la carga es igual a la resistencia interna de la fuente. 
