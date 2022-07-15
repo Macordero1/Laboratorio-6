@@ -262,6 +262,12 @@ RL = 4700Ω
 
 ![image](https://user-images.githubusercontent.com/105742149/179146952-d71ee6c1-0265-4a82-9bba-8a605486332a.png)
 
+## **Calculo de errores**
+
+![image](https://user-images.githubusercontent.com/105742149/179153537-a8339798-ad41-48b8-a2a3-d0b6b438e3cd.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179153552-ae95f519-7870-41e2-b898-d7c2fd3dcf7e.png)
+
 ## **Conclusiones**
 * De los resultados logrados previamente se concluye que la práctica ha sido desarrollada de manera correcta. 
 * Se puede concluir que se transfiere potencia máxima a una carga a partir de una fuente una vez que la resistencia de la carga es igual a la resistencia interna de la fuente. 
